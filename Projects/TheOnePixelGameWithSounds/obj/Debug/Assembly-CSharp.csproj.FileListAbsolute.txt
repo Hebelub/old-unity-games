@@ -1,0 +1,2 @@
+C:\Users\glosn\Desktop\Coding\Unity\TheOnePixelGameWithSounds\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\glosn\Desktop\Coding\Unity\TheOnePixelGameWithSounds\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

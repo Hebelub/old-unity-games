@@ -1,0 +1,9 @@
+ /*new Code("280", "\"Imponerende, \"1899\" er riktig kode! Det er koden til nøkkelbrikken! \n" +
+           "Nå må dere prøve å finne nummeret til vakten og ringe ham. Da vil han bli distrahert slik at dere kan rømme. \n" +
+           "Målet deres nå er å komme deg ut av rommet og inn døra ute som er markert med det hellige tegn. For å komme inn her trenger du nøkkelbrikken og koden til den.\n" +
+           "Brikken funker hvis du gjør slik (Les dette nøye!): \n" +
+           "1. Legg brikken intill slik at det blinker \n" +
+           "2. Skriv inn koden \"1899\"\n" +
+           "3. Legg brikken intill enda en gang.\n" +
+           "Nå vil døren åpne seg og dere har kommet dere unna! Men pass på at vakten ikke følger etter dere! :)\"");
+           */

@@ -1,0 +1,2 @@
+C:\Users\glosn\Desktop\Coding\Unity\Sheetmaster 21.02.2021\Simple Game Puzzle\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\glosn\Desktop\Coding\Unity\Sheetmaster 21.02.2021\Simple Game Puzzle\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
