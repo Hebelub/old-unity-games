@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Emerald
+  m_EditorClassIdentifier: Assembly-CSharp::Finding
+  name: Emerald
+  score: 4
+  damage: 0
+  sprite: {fileID: 21300000, guid: 900ad38fc22d2364ebfe99192429903b, type: 3}
+  poison: 0
+  sound: {fileID: 8300000, guid: 70b02644922332548bf43c33195f13e6, type: 3}
+  Description: Shiny thing with a value
