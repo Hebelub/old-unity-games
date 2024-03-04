@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: _Font 3x3
+  m_EditorClassIdentifier: Assembly-CSharp::Font
+  noCapitalLetters: 1
+  lowerCaseLetters:
+  - {fileID: 11400000, guid: f2948edcd9ce76d4a980d907233a3d7f, type: 2}
+  - {fileID: 11400000, guid: 779c055a65c13724cb76fce0b995e89e, type: 2}
+  - {fileID: 11400000, guid: 55ff99a94488b9241bc0d190e8dde2b5, type: 2}
+  - {fileID: 11400000, guid: 24c12f1b47a84de4ab5db9554f80f78e, type: 2}
+  - {fileID: 11400000, guid: 7f88a5462fdf1ca4b81a86d1e3a0bfbb, type: 2}
+  upperCaseLetters: []

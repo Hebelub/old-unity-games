@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Gold
+  m_EditorClassIdentifier: Assembly-CSharp::Finding
+  name: Gold
+  score: 3
+  damage: 0
+  sprite: {fileID: 21300000, guid: e6921cad457de6646a92411ac68cbee2, type: 3}
+  poison: 0
+  sound: {fileID: 8300000, guid: 5d8584b246225444387c602e6ea06f7c, type: 3}
+  Description: It is a shiny tasty thing!

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Banana
+  m_EditorClassIdentifier: Assembly-CSharp::Finding
+  name: Banana
+  score: -1
+  damage: -1
+  sprite: {fileID: 21300000, guid: 24ce47940a5a6fa47addf6381cb1449d, type: 3}
+  poison: 0
+  sound: {fileID: 8300000, guid: 46733cce6acc66f4e926ad1c0b86e49b, type: 3}
+  Description: How do we eat this thing?
