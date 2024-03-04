@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Insta Turn
+  m_EditorClassIdentifier: Assembly-CSharp::PowerUp
+  spawnProbapillity: 1
+  gameObject: {fileID: 1299553802059114, guid: 55218f5f753df3743857410b92db9385, type: 2}
+  powerUp: 
