@@ -6,7 +6,7 @@ Welcome to my collection of Unity games! This portfolio showcases a variety of p
 
 ![Explore Islands](Images/ExploreIslands.png)
 
-Explore Islands is a captivating game where your adventure unfolds across various islands, each represented as a deck of cards. Your objective is to strategically select islands that offer the best items and accumulate enough coins to advance to the next level. Make sure not to lose all your health. Each island only reveals the next monster or item, so be clever in how you play. You will encounter venomous snakes and treacherous traps. Are you stuck? Then use your coins to purchase power-ups. Use TNT on the hostile monsters so you can discover hidden gems. Prepare for a journey full of surprises and creative strategic decisions.
+Explore Islands is a captivating game where your adventure unfolds across various islands, each represented as a deck of cards. Your objective is to strategically select islands that offer the best items and accumulate enough coins to advance to the next level. Make sure not to lose all your health. Each island only reveals the next monster or item, so be clever in how you play. You will encounter venomous snakes and even tricking aliens. Are you stuck? Then use your coins to purchase power-ups. Use TNT on the hostile monsters so you can discover hidden gems. Prepare for a journey full of surprises and creative strategic decisions.
 
 ## Merge World
 
