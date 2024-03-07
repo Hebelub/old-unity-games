@@ -6,7 +6,7 @@ Welcome to my collection of Unity games! This portfolio showcases a variety of p
 
 ![Explore Islands](Images/ExploreIslands.png)
 
-Explore Islands is a captivating game where your adventure takes place across different islands, each represented as a deck of cards. Your objective is to strategically select islands that provide the best items and accumulate enough coins to advance to the next level. With each island revealing only the next monster or item, prepare for a journey full of surprises and strategic decisions.
+Explore Islands is a captivating game where your adventure unfolds across various islands, each represented as a deck of cards. Your objective is to strategically select islands that offer the best items and accumulate enough coins to advance to the next level. Make sure not to lose all your health. Each island only reveals the next monster or item, so be clever in how you play. You will encounter venomous snakes and treacherous traps. Are you stuck? Then use your coins to purchase power-ups. Use TNT on the hostile monsters so you can discover hidden gems. Prepare for a journey full of surprises and creative strategic decisions.
 
 ## Merge World
 
@@ -18,7 +18,7 @@ Merge World invites you into a realm of creativity and discovery. Starting with 
 
 ![Push Off Turtles](Images/PushOffTurtles.png)
 
-In Push Off Turtles, engage in a thrilling four-player battle where the goal is to be the last one standing on the platform. Equip yourself with strategic power-ups to push your opponents off the platform. Fast-paced and competitive, this game tests your reflexes and strategy under pressure.
+In Push Off Turtles, engage in a thrilling four-player battle where the goal is to be the last one standing on the platform. Equip yourself with strategic power-ups to push your opponents off the platform. Fast-paced and competitive, this game tests your reflexes and creative strategy under pressure.
 
 ## Ultimate Frisbee
 
@@ -40,4 +40,4 @@ Inspired by the classic game Tank Trouble, this project aims to enhance the orig
 
 ---
 
-Thank you for exploring my portfolio of Unity games. Each project has been a step in my journey of learning and growth in game development. I hope you find these games as enjoyable to explore as they were for me to create.
+Thank you for exploring my portfolio of Unity games. I hope you find these games as enjoyable to explore as they were for me to create.
