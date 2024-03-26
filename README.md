@@ -2,6 +2,8 @@
 
 Welcome to my collection of Unity games! This portfolio showcases a variety of projects I've worked on, each with its unique concept and gameplay. Below, you will find a brief description of a chosen sample of games along with a visual preview.
 
+For a comprehensive look at all of my projects, please refer to the **AllGamesOverview.docx** document in the repo. This file contains a detailed list of every game, complete with images to give you a visual taste of each project. It's important to note, however, that almost all 3D meshes have unfortunately been lost due to technical issues. As a result, not all games can be presented in their entirety within this document. Below in this README file, we've featured a select few of the games found in the featured collection.
+
 ## Explore Islands
 
 ![Explore Islands](Images/ExploreIslands.png)
