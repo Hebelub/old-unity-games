@@ -22,6 +22,12 @@ Merge World invites you into a realm of creativity and discovery. Starting with 
 
 In Push Off Turtles, engage in a thrilling four-player battle where the goal is to be the last one standing on the platform. Equip yourself with strategic power-ups to push your opponents off the platform. Fast-paced and competitive, this game tests your reflexes and creative strategy under pressure.
 
+## Bit By Bit
+
+![Bit By Bit](Images/BitForBit.png)
+
+In Bit By Bit, only part of the image is revealed at a time. Divide people into teams and guess what is behind the image before the others. It has different game modes. One mode opens random squares automatically until the image is guessed. Another game mode would be that each team selects squares in turn and also guesses on their own turn. This game was created because I was told to organize a competition for my youth group.
+
 ## Ultimate Frisbee
 
 ![Ultimate Frisbee](Images/UltimateFrisbee.png)
